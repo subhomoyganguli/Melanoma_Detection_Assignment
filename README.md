@@ -43,7 +43,7 @@ Vascular lesion
 - Numpy
 
 ## Conclusions
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/791f036e-af03-4b6a-b4ca-3ac59b0b9e94)
 
 ## Contributors
 * Subhomoy Ganguli
